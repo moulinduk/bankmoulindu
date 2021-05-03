@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/bankmoulindu/static/js/main.6874b698.chunk.js",
+    "main.js.map": "/bankmoulindu/static/js/main.6874b698.chunk.js.map",
+    "runtime-main.js": "/bankmoulindu/static/js/runtime-main.14577363.js",
+    "runtime-main.js.map": "/bankmoulindu/static/js/runtime-main.14577363.js.map",
+    "static/js/2.f78341b5.chunk.js": "/bankmoulindu/static/js/2.f78341b5.chunk.js",
+    "static/js/2.f78341b5.chunk.js.map": "/bankmoulindu/static/js/2.f78341b5.chunk.js.map",
+    "index.html": "/bankmoulindu/index.html",
+    "static/js/2.f78341b5.chunk.js.LICENSE.txt": "/bankmoulindu/static/js/2.f78341b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14577363.js",
+    "static/js/2.f78341b5.chunk.js",
+    "static/js/main.6874b698.chunk.js"
+  ]
+}

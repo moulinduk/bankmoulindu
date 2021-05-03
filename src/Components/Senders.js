@@ -5,7 +5,7 @@ function Senders(props) {
     var [data, setData] = React.useState(['Loading..']);
     var [refresh, setRefresh] = React.useState(true);
     var [selected, select] = React.useState(false);
-    if(refresh) Axios.post("http://localhost/bankmoulindu/api/customer/read.php")
+    if(refresh) Axios.post("https://moulinduk.000webhostapp.com/bankmoulindu/api/customer/read.php")
     .then((res) => {
         setData(res.data.records.map((cust, i) => 
             <div key={i+1}>

@@ -15,7 +15,7 @@ function TransferForm(props) {
                     receiverid: props.receiverid,
                     amount: values.amount
                 }
-                Axios.post("http://localhost/bankmoulindu/api/transfer/create.php", req)
+                Axios.post("https://moulinduk.000webhostapp.com/bankmoulindu/api/transfer/create.php", req)
                 .then((res) => {
                     alert(res.data.message);
                 }).catch((err) => {
